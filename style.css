@@ -2,17 +2,12 @@
 
     background-color: rgb(3, 184, 130);
     margin-left: 100px;
-    margin-top: auto;
-    margin-bottom: auto;
+    padding: 20px;
 }
 
 .card-img {
     width: 200px;
     height: 200px;
-}
-
-.cardmb-3 {
-   
 }
 
 .card-text {
@@ -34,12 +29,42 @@
 
 .col-4 {
     font-size: 30px;
+    margin-top: 60px;
 }
 
 .card-title {
     background-color: dark grey;
 }
 
-.card-title {
-    font: 15px;
+h5 {
+    font-size: 15px;
 }
+
+.img {
+    width: 200px;
+    height: 200px;
+}
+
+body {
+    background-color: rgb(224, 222, 218);
+}
+.container {
+    margin-top: 80px;
+}
+
+.container1 {
+    background-color: white;
+}
+
+.section {
+    width: 50%;
+}
+
+.form-group {
+    margin-top: 20px;
+}
+
+.btnbtn-primary {
+    background-color: rgb(3, 184, 130);
+}
+
