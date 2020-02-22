@@ -1,0 +1,45 @@
+.navbar-brand {
+
+    background-color: rgb(3, 184, 130);
+    margin-left: 100px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.card-img {
+    width: 200px;
+    height: 200px;
+}
+
+.cardmb-3 {
+   
+}
+
+.card-text {
+
+    margin-left: 24px;
+}
+
+.card-title {
+
+    font-size: 34px;
+    margin-left: 20px;
+    margin-top: -22px;
+}
+
+.container {
+
+    margin-top: 50px;
+}
+
+.col-4 {
+    font-size: 30px;
+}
+
+.card-title {
+    background-color: dark grey;
+}
+
+.card-title {
+    font: 15px;
+}
